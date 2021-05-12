@@ -17,7 +17,7 @@
 - :heavy_check_mark: Docker
 
 
-#LANCEMENT DU PROJET 
+# LANCEMENT DU PROJET 
 
 ## URL
 ```
@@ -51,4 +51,4 @@ docker-compose exec node /bin/sh
 
 ## Environment variable
 - Rename .env.sample to .env
-- Add a key for JWT_KEY on this file
+- Add a key for JWT_KEY on this file (secret key, you have to ask me)
